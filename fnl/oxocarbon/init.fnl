@@ -52,7 +52,7 @@
 ;; oxocarbon palette 
 
 ;; (local base00 "#161616")
-(local base00 "#08bdba")
+(local base00 "#000000")
 (local base06 "#ffffff")
 (local base09 "#78a9ff")
 
@@ -73,7 +73,7 @@
                            :base13 "#42be65"
                            :base14 "#be95ff"
                            :base15 "#82cfff"
-                           :blend "#131313"
+                           :blend "#000"
                            :none :NONE})
                      {:base00 base06
                       :base01 (blend-hex base00 base06 0.95)
